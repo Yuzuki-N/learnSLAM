@@ -1,3 +1,5 @@
-/home/yuzuki/slam/mySlam/ch2/build/CMakeFiles/rebuild_cache.dir
-/home/yuzuki/slam/mySlam/ch2/build/CMakeFiles/helloSLAM.dir
-/home/yuzuki/slam/mySlam/ch2/build/CMakeFiles/edit_cache.dir
+/home/yuzuki/learnSLAM/ch2/build/CMakeFiles/rebuild_cache.dir
+/home/yuzuki/learnSLAM/ch2/build/CMakeFiles/helloSLAM.dir
+/home/yuzuki/learnSLAM/ch2/build/CMakeFiles/useHello.dir
+/home/yuzuki/learnSLAM/ch2/build/CMakeFiles/edit_cache.dir
+/home/yuzuki/learnSLAM/ch2/build/CMakeFiles/hello_shared.dir

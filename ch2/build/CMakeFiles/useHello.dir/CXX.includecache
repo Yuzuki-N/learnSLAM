@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/yuzuki/learnSLAM/ch2/helloSLAM.cpp
-iostream
--
+/home/yuzuki/learnSLAM/ch2/libHelloSLAM.h
+
+/home/yuzuki/learnSLAM/ch2/useHello.cpp
+libHelloSLAM.h
+/home/yuzuki/learnSLAM/ch2/libHelloSLAM.h
 
